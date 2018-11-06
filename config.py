@@ -22,7 +22,7 @@ class StagingConfig(Config):
 class DevelopmentConfig(Config):
     DEVELOPMENT = True
     DEBUG = True
-    SQLALCHEMY_DATABASE_URI = 'postgresql://localhost/zhcet_coders'
+    SQLALCHEMY_DATABASE_URI = 'postgresql://prateek:12345@localhost/zhcet_coders'
 
 
 class TestingConfig(Config):
