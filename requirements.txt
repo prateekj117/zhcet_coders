@@ -12,7 +12,7 @@ colorama==0.3.7
 configparser==3.5.0
 constantly==15.1.0
 crcmod==1.7
-cryptography==2.1.4
+cryptography==2.3.1
 decorator==4.3.0
 EasyProcess==0.2.3
 entrypoints==0.2.3
@@ -75,7 +75,7 @@ pyzmq==17.1.2
 qtconsole==4.4.1
 query-string==1.0.2
 request==1.0.2
-requests==2.19.1
+requests==2.20.0
 scandir==1.9.0
 SecretStorage==2.3.1
 selenium==3.14.1
