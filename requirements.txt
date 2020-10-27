@@ -12,7 +12,7 @@ colorama==0.3.7
 configparser==3.5.0
 constantly==15.1.0
 crcmod==1.7
-cryptography==2.3.1
+cryptography==3.2
 decorator==4.3.0
 EasyProcess==0.2.3
 entrypoints==0.2.3
